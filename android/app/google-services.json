@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "740569262761",
+    "project_id": "movielo-9ca35",
+    "storage_bucket": "movielo-9ca35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740569262761:android:d2893c7d9e2410332217b8",
+        "android_client_info": {
+          "package_name": "com.fellix.movielo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740569262761-4pgi86s5a079q0hmo9e6lphvsstb1eit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3qL1vskXwk0EaEz6Vt2alRYSrJehyZ04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740569262761-4pgi86s5a079q0hmo9e6lphvsstb1eit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740569262761:android:3fa08f1fdc4743e22217b8",
+        "android_client_info": {
+          "package_name": "com.movielo_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740569262761-4pgi86s5a079q0hmo9e6lphvsstb1eit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3qL1vskXwk0EaEz6Vt2alRYSrJehyZ04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740569262761-4pgi86s5a079q0hmo9e6lphvsstb1eit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
